@@ -23,4 +23,4 @@ here are the list of people you can reach out to:
 ## endorsements
 1. TBD!
 
-![be one of vera's bergers today!](/Users/adeena/Desktop/adeenal.github.io/Impossible-Burger.png)
+![be one of vera's bergers today!](Impossible-Burger.png)
