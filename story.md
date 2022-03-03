@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: vera's story
 layout: template
 filename: story
 --- 
