@@ -96,6 +96,12 @@ Increase weekly hours limit for student workers to pre-pandemic allotment of 20 
 + Work with the COVID-19 Planning and Response Group to dissolve the COVID Policy Committee responsible for evaluating COVID policy violations. Send these cases instead to JBoard, which has standardized procedures, students trained to evaluate cases, and an established appeals process
 + Work with the Comm. of Campus Events to plan and hold safe 5C events
 
+### Equity and Inclusion in Academics
+
+### Center Students Through ASPC Initiatives
+
+### Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts
+
 
 ![be one of vera's bergers today!](Impossible-Burger.png)
 
