@@ -18,11 +18,11 @@ bit.ly/vera4pres
 Please reach out to me with any questions or concerns over text, Facebook, or email! I hope to have your support. 
 
 ## Platform Outline
-Promote Student Leadership and Involvement in Institutional Processes
-Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives
-Equity and Inclusion in Academics
-Center Students Through ASPC Initiatives
-Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts
+- Promote Student Leadership and Involvement in Institutional Processes
+- Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives
+- Equity and Inclusion in Academics
+- Center Students Through ASPC Initiatives
+- Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts
 
 # Platform
 
