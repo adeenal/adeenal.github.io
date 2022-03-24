@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-# VERA BERGER FOR ASPC PRESIDENT
+# Vote for Vera!
 
 Join my Facebook Group and follow me on Instagram at @vera4pres
 Vote at pomonastudents.org/vote starting Sunday, March 27 at 8pm
