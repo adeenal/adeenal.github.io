@@ -1,9 +1,12 @@
 ---
-title: vera's story
+title: endorsements
 layout: template
 filename: story
 --- 
 
-# vera's story
+# Current Endorsements
 
-this is the story of veralong bergery.
+## Current ASPC Senators Eligible to Give Endorsements: 
++ Adeena Liang, Vice President of Finance
++ Timothy Liu, North Campus Representative
++ Deanna Han, Junior Class President
